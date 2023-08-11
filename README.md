@@ -13,7 +13,7 @@
 
 ER - диаграмма:
 
-![Скриншот-3](https://github.com/Zzeting/sys-git-hw2/blob/main/img/diaram.PNG)
+![Скриншот-3](https://github.com/Zzeting/relationbd-hw-2/blob/main/img/diaram.PNG)
 
 ### Задание 2. 
 
